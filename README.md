@@ -12,6 +12,7 @@ The project's final form will probably reflect that with some Vibrancy ..
 
 ```
 cd Sleek_Todo
+bundle install
 rake db:migrate
 rails server
 ```
@@ -20,24 +21,24 @@ Head over to http://localhost:3000
 ### Prerequisites
 
 * ruby^2.3.7
-```
+`
 rvm install ruby 2.3.7
-```
+`
 * rails
-```
+`
 gem install rails
-```
+`
 * bundler
-```
+`
 gem install bundler
-```
+`
 
 ### Todo
 
 * Better integration, thinking about Material Design ..
 * Error Handling (blank entries, ...)
 * Material icons instead of 'MARK AS COMPLETED' urghh
-* 
+* ...
 
 ### Contribution
 
