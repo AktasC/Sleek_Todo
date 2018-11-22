@@ -1,6 +1,9 @@
-# Sleek_Todo
-
-A classy way to start coding with Rails
+<h1 align="center">Sleek_Todo</h1>
+<p align="center">
+    <img src="https://i.imgur.com/syn6e3g.jpg" width="600">
+  </a>
+</p>
+A classic project to start coding with any language, here with Rails
 Everything here was written / tested on a Mojave Hackintosh.
 The project's final form will probably reflect that with some Vibrancy ..
 
