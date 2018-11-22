@@ -8,8 +8,10 @@ The project's final form will probably reflect that with some Vibrancy ..
 ## Getting Started
 
 ```
+rails migrate
 rails server
 ```
+Head over to http://localhost:3000
 
 ### Prerequisites
 
