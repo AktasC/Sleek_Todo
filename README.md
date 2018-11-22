@@ -40,10 +40,6 @@ gem install bundler
 * Material icons instead of 'MARK AS COMPLETED' urghh
 * ...
 
-### Contribution
-
-Thanks to [mackenziechild](https://github.com/mackenziechild) fors his scss :)
-
 ## Contributing
 
 If you have any advice or suggestion please feel free to open an issue
