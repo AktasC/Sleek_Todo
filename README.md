@@ -13,12 +13,12 @@ rails server
 
 ### Prerequisites
 
-```
-ruby
-rails
-```
+* ruby
+* rails
 
 ### Todo
+
+Will see ..
 
 ## Contributing
 
