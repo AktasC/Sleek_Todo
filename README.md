@@ -8,7 +8,7 @@ The project's final form will probably reflect that with some Vibrancy ..
 ## Getting Started
 
 ```
-rails migrate
+rake db:migrate
 rails server
 ```
 Head over to http://localhost:3000
