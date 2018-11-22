@@ -1,24 +1,25 @@
-# README
+# Sleek_Todo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A classy way to start coding with Rails
+Everything here was written / tested on a Mojave Hackintosh.
+The project's final form will probably reflect that with some Vibrancy ..
 
-Things you may want to cover:
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+```
+rails server
+```
 
-* Configuration
+### Prerequisites
 
-* Database creation
+```
+ruby
+rails
+```
 
-* Database initialization
+### Todo
 
-* How to run the test suite
+## Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you have any advice or suggestion please feel free to open an issue
