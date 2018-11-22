@@ -20,6 +20,10 @@ rails server
 
 Will see ..
 
+### Contribution
+
+Thanks to (mackenziechild)[https://github.com/mackenziechild] fors his scss :p
+
 ## Contributing
 
 If you have any advice or suggestion please feel free to open an issue
